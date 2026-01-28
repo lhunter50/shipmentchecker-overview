@@ -29,13 +29,13 @@ This repository serves as a **sanitized technical overview** of the system’s a
 ## High-Level Architecture
 
 Data Source
-↓
+->
 Batch Ingestion & Validation
-↓
+->
 Business Rule Evaluation
-↓
+->
 Flagged Results
-↓
+->
 Reporting / Review
 
 
